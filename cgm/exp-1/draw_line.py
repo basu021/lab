@@ -26,7 +26,7 @@ while i < steps:
      i+=1
      x1=x1+ xincrement
      y1=y1+yincrement
-     print("x1: ", x1, "y1:", y1)
+     print("x1:", x1, "", "", "y1:", y1)
      xcordinates.append(x1)
      ycordinates.append(y1)
 
