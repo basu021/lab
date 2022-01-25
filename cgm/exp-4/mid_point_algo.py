@@ -1,62 +1,42 @@
+from pygame import gfxdraw
+import sys,pygame
+pygame.init()
 
-def midPointCircleDraw(x_centre, y_centre, r):
-	x = r
-	y = 0
+screen = pygame.display.set_mode((400,400))
+screen.fill((0,0,0))
+pygame.display.flip()
 
-	print("(", x + x_centre, ", ",
-			y + y_centre, ")",
-			sep = "", end = "")
+def circle(radius,offset):
+	x,y = 0,radius
+	plotCircle(x,y,radius,offset)
 
-	if (r > 0) :
-	
-		print("(", x + x_centre, ", ",
-				-y + y_centre, ")",
-				sep = "", end = "")
-		print("(", y + x_centre, ", ",
-				x + y_centre, ")",
-				sep = "", end = "")
-		print("(", -y + x_centre, ", ",
-					x + y_centre, ")", sep = "")
+def symmetry_points(x,y,offset):
+	gfxdraw.pixel(screen,x+offset,y+offset,(255,255,255))
+	gfxdraw.pixel(screen,-x+offset,y+offset,(255,255,255))
+	gfxdraw.pixel(screen,x+offset,-y+offset,(255,255,255))
+	gfxdraw.pixel(screen,-x+offset,-y+offset,(255,255,255))
+	gfxdraw.pixel(screen,y+offset,x+offset,(255,255,255))
+	gfxdraw.pixel(screen,-y+offset,x+offset,(255,255,255))
+	gfxdraw.pixel(screen,y+offset,-x+offset,(255,255,255))
+	gfxdraw.pixel(screen,-y+offset,-x+offset,(255,255,255))
+	pygame.display.flip()
 
-	P = 1 - r
+def plotCircle(x,y,radius,offset):
+	d = 5/4.0 - radius
+	symmetry_points(x,y,radius+offset)
+	while x < y:
+		if d < 0:
+			x += 1
+			d += 2*x + 1
+		else:
+			x += 1
+			y -= 1
+			d += 2*(x-y) + 1
+		symmetry_points(x,y,radius+offset)
 
-	while x > y:
-	
-		y += 1
+circle(100,25) # circle(radius,<offset from edge>)
+pygame.display.flip()
 
-		if P <= 0:
-			P = P + 2 * y + 1
-
-		else:		
-			x -= 1
-			P = P + 2 * y - 2 * x + 1
-
-		if (x < y):
-			break
-
-		print("(", x + x_centre, ", ", y + y_centre,
-							")", sep = "", end = "")
-		print("(", -x + x_centre, ", ", y + y_centre,
-							")", sep = "", end = "")
-		print("(", x + x_centre, ", ", -y + y_centre,
-							")", sep = "", end = "")
-		print("(", -x + x_centre, ", ", -y + y_centre,
-										")", sep = "")
-		if x != y:
-		
-			print("(", y + x_centre, ", ", x + y_centre,
-								")", sep = "", end = "")
-			print("(", -y + x_centre, ", ", x + y_centre,
-								")", sep = "", end = "")
-			print("(", y + x_centre, ", ", -x + y_centre,
-								")", sep = "", end = "")
-			print("(", -y + x_centre, ", ", -x + y_centre,
-											")", sep = "")
-							
-# Driver Code
-if __name__ == '__main__':
-	
-	# To draw a circle of radius 3
-	# centered at (0, 0)
-	midPointCircleDraw(0, 0, 3)
-
+while 1:
+	for event in pygame.event.get():
+		if event.type == pygame.QUIT: sys.exit()
