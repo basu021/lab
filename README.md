@@ -1,4 +1,7 @@
 <h1 align="center">
+<br>
+  Lab
+<br>
 <img src="https://github.com/basu021/lab/blob/main/elements/logo.svg" height="250" align="center" />
 <br>
 <img src="https://img.shields.io/github/last-commit/basu021/lab" alt="">
@@ -12,7 +15,7 @@
 <img src="https://img.shields.io/github/issues/basu021/lab?style=flat-square" alt="">
 <img src="https://img.shields.io/github/license/basu021/lab?style=flat-square" alt="">
 <br>
-  Lab Assignments 5th Sem
+
 </h1>
 
 # Syllabus
