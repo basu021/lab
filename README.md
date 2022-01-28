@@ -20,7 +20,7 @@
 
 # Syllabus
 
-## WEB DEVELOPMENT LAB (Pr-1) <a href="">Click Here</a>
+<h1>WEB DEVELOPMENT LAB (Pr-1)</h1>
         <ol>
             <li>
                 <a href="#">DEVELOPING PORTALS USING HTML</a>
@@ -51,43 +51,4 @@
                     <li><a href="#">Floating of web pages</a></li>
                 </ul>
             </li>
-            <li>
-                <a href="#">PHP</a>
-                <ul>
-                    <li><a href="#">Introduction to PHP</a></li>
-                    <li><a href="#">The php.ini File</a></li>
-                    <li><a href="#">Basic PHP Syntax</a></li>
-                    <ul>
-                        <li><a href="#">PHP variables</a></li>
-                        <li><a href="#">Statements</a></li>
-                        <li><a href="#">Operators</a></li>
-                        <li><a href="#">Decision Making</a></li>
-                        <li><a href="#">Loops</a></li>
-                        <li><a href="#">Arrays</a></li>
-                        <li><a href="#">Strings</a></li>
-                        <li><a href="#">Forms</a></li>
-                        <li><a href="#">Get and Post Methods</a></li>
-                        <li><a href="#">Functions</a></li>
-                    </ul>
-                    <li><a href="#">Introduction to cookies</a></li>
-                    <li><a href="#">Storage of cookies at client side</a></li>
-                    <li><a href="#">Using information of cookies</a></li>
-                    <li><a href="#">Creating single or multiple server side sessions</a></li>
-                    <li><a href="#">Timeout in sessions</a></li>
-                    <li><a href="#">Event management in PHP</a></li>
-                    <li><a href="#">Introduction to content management systems based on PHP</a></li>
-                </ul>
-            </li>
-            <li>
-                <a href="#">PHP and My SQL</a>
-                <ul>
-                    <li><a href="#">Introduction to My SQL</a></li>
-                    <li><a href="#">Connecting to My SQL</a></li>
-                    <li><a href="#">Database</a></li>
-                    <li><a href="#">Creation</a></li>
-                    <li><a href="#">Insertion</a></li>
-                    <li><a href="#">Deletion and Retrieval of My SQL data using PHP</a></li>
-                </ul>
-            </li>
         </ol>
-## Computer Graphics & Multimedia Lab (Pr-1) <a href="">Click Here</a>
