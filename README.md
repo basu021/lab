@@ -31,7 +31,7 @@
                     <li><a href="#">Inserting Images</a></li>
                     <li><a href="#">Horizontal Rules</a></li>
                     <li><a href="#">Comments</a></li>
-                    <li><a href="#">Formatting
+                    <li><a href="#">Formatting</a></li>
                         <ul>
                             <li><a href="#">Text</a></li>
                             <li><a href="#">Tittle</a></li>
