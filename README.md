@@ -102,7 +102,7 @@ client/server design.
     5. [Insertion]()
     6. [Deletion and retrieval of My SQL data using PHP]()
 
-- [List Of Practicals]()
+# List Of Practicals
     1. [Design PHP based web pages using correct PHP, CSS, and XHTML syntax, structure.]()
     2. [Create Web forms and pages that properly use HTTP GET and POST protocol as appropriate.]()
     3. [Design SQL language within My SQL and PHP to access and manipulate databases.]()
@@ -112,4 +112,3 @@ client/server design.
     7. [To store a cookie using PHP on client side.]()
     8. [To save the user session on server side.]()
     9. [Design website.]()
-    
