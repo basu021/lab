@@ -23,6 +23,46 @@ client/server design.
 8. To save the user session on server side.
 9. Design website.
 
+PR-2 Computer Graphics & Multimedia Lab
+
+LIST OF PRACTICALS
+Graphics
+1. Program to implement a line using slope intercept formula.
+2. Program to implement line using DDA algorithm.
+3. Program to implement line using Bresenham’s algorithm.
+4. Program to implement circle using mid-point algorithm.
+5. Program to implement translation of a line and triangle.
+6. Program to implement rotation of a line and triangle.
+7. Program to implement scaling transformation.
+8. Write a program using function & Fill the Circle with Red color.
+Photoshop
+1. The concept of Photoshop. 
+2. How to open a document. How to save the document .
+3. How to create a new document with the needed resolution. 
+4. How to select an area, copy and paste the selection. 
+5. How to save images for the web and their formats. 
+6. The use of layers and the history palette. How to print our document. 
+7. How to use the text editor. How to Crop Image in Photoshop & Sharpen Image?
+20
+8. Procedure to Removing & Adding Backgrounds images. Procedure to Convert Color 
+Photos to Black & White.
+9. How to Create a Passport size images? How to Change Eye Color & Hair Color?
+10. How to Add Rain in Photoshop? How to make a GIFs File?
+Flash
+1. Procedure to create an animation to represent the growing moon.
+2. Procedure to create an animation to indicate a ball bouncing on steps.
+3. Procedure to simulate movement of a cloud. Procedure to draw the fan blades and to 
+give proper animation. Procedure to display the background given (filename: tulip.jpg) 
+through your name.
+4. Procedure to create an animation with the following features.
+5. Procedure to design a visiting card containing at least one graphic and text 
+information.
+6. Procedure to prepare a cover page for the book in your subject area. Plan your own 
+design. Procedure to adjust the brightness and contrast of the picture so that it gives 
+an elegant look.
+7. Procedure to position the picture preferably on a plain background of a colour of your 
+choice - positioning includes rotation and scaling.
+8. Procedure to type a word and apply the effects shadow embosses.
 
 -->
 
@@ -102,7 +142,7 @@ client/server design.
     5. [Insertion]()
     6. [Deletion and retrieval of My SQL data using PHP]()
 
-## List Of Practicals
+### List Of Practicals
 
 1. [Design PHP based web pages using correct PHP, CSS, and XHTML syntax, structure.]()
 2. [Create Web forms and pages that properly use HTTP GET and POST protocol as appropriate.]()
@@ -112,4 +152,45 @@ client/server design.
 6. [Design and create a complete web site that demonstrates good PHP/My SQL client/server design.]()
 7. [To store a cookie using PHP on client side.]()
 8. [To save the user session on server side.]()
-9. [Design website.]()
+9. [Design website.]() 
+
+## Computer Graphics & Multimedia Lab (Pr-2) <a href="">Click Here</a>
+
+1. [Graphics]()
+    - [Program to implement a line using slope intercept formula.]()
+    - [Program to implement line using DDA algorithm.]()
+    - [Program to implement line using Bresenham's algorithm.]()
+    - [Program to implement circle using midpoint circle algorithm.]()
+    - [Program to implement translation of a line and triangle.]()
+    - [Program to implement rotation of a line and triangle.]()
+    - [Program to implement scaling Transformation.]()
+    - [Write a program using function & Fill the Circle with Red color.]()
+2. [Photoshop]()
+    - [The concept of Photoshop.]()
+    - [How to open a document.]()
+    - [How to save the document.]()
+    - [How to create a new document with the needed resolution.]()
+    - [How to select an area, copy and paste the selection.]()
+    - [How to save images for the web and their formats.]()
+    - [The use of layers and the history palette.]()
+    - [How to print our document.]()
+    - [How to use the text editor.]()
+    - [How to Crop Image in Photoshop & Sharpen Image?]()
+    - [Procedure to Removing & Adding Backgrounds images.]()
+    - [Procedure to Convert Color Photos to Black & White.]()
+    - [How to Create a Passport size images?]()
+    - [How to Change Eye Color & Hair Color?]()
+    - [How to Add Rain in Photoshop?]()
+    - [How to make a GIFs File?]()
+3. [Flash]()
+    - [Procedure to create an animation to represent the growing moon.]()
+    - [Procedure to create an animation to indicate a ball bouncing on steps.]()
+    - [Procedure to simulate movement of a cloud.]()
+    - [Procedure to draw the fan blades and to give proper animation.]()
+    - [Procedure to display the background given (filename: tulip.jpg) through your name.]()
+    - [Procedure to create an animation with the following features.]()
+    - [Procedure to design a visiting card containing at least one graphic and text]()
+    - [Procedure to prepare a cover page for the book in your subject area.]()
+    - [Procedure to adjust the brightness and contrast of the picture so that it gives an elegant look.]()
+    - [Procedure to position the picture preferably on a plain background of a colour of your choice - positioning includes rotation and scaling.]()
+    - [Procedure to type a word and apply the effects shadow embosses.]()
