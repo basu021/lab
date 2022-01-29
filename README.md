@@ -1,3 +1,15 @@
+<!-- PHP
+Introduction to PHP: How PHP Works , The php.ini File, Basic PHP Syntax, PHP 
+variables, statements, operators, decision making, loops, arrays, strings, forms, get 
+and post methods, functions.
+Introduction to cookies, storage of cookies at client side, Using information of cookies. 
+Creating single or multiple server side sessions. Timeout in sessions, Event 
+management in PHP. Introduction to content management systems based on PHP. 
+
+ PHP and My SQL
+Introduction to My SQL, connecting to My SQL, database, creation, insertion, deletion 
+and retrieval of My SQL data using PHP.
+-->
 
 
 <h1 align="center">
@@ -46,4 +58,32 @@
     11. [Forms]()
     12. [Style sheets and Frames]()
     13. [Floating of web pages]()
-
+- [PHP]()
+    1. [Introduction to PHP]()
+    2. [How PHP Works]()
+    3. [The php.ini File]()
+    4. [Basic PHP Syntax]()
+    5. [PHP variables]()
+    6. [Statements]()
+    7. [Operators]()
+    8. [Decision making]()
+    9. [Loops]()
+    10. [Arrays]()
+    11. [Strings]()
+    12. [Forms]()
+    13. [Get and Post Methods]()
+    14. [Functions]()
+    15. [Cookies]()
+    16. [Storage of cookies at client side]()
+    17. [Using information of cookies]()
+    18. [Creating single or multiple server side sessions]()
+    19. [Timeout in sessions]()
+    20. [Event management in PHP]()
+- [My SQL]()
+    1. [Introduction to My SQL]()
+    2. [Connecting to My SQL]()
+    3. [Database]()
+    4. [Creation]()
+    5. [Insertion]()
+    6. [Deletion and retrieval of My SQL data using PHP]()
+ 
