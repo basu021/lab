@@ -9,6 +9,21 @@ management in PHP. Introduction to content management systems based on PHP.
  PHP and My SQL
 Introduction to My SQL, connecting to My SQL, database, creation, insertion, deletion 
 and retrieval of My SQL data using PHP.
+
+LIST OF PRACTICALS
+1. Design PHP based web pages using correct PHP, CSS, and XHTML syntax, structure.
+2. Create Web forms and pages that properly use HTTP GET and POST protocol as
+appropriate.
+3 Design SQL language within My SQL and PHP to access and manipulate databases.
+4. Install and configure both PHP and My SQL.
+5 Create PHP code that utilizes the commonly used API library functions built in to PHP.
+6. Design and create a complete web site that demonstrates good PHP/My SQL 
+client/server design.
+7. To store a cookie using PHP on client side.
+8. To save the user session on server side.
+9. Design website.
+
+
 -->
 
 
@@ -86,4 +101,15 @@ and retrieval of My SQL data using PHP.
     4. [Creation]()
     5. [Insertion]()
     6. [Deletion and retrieval of My SQL data using PHP]()
- 
+
+- [List Of Practicals]()
+    1. [Design PHP based web pages using correct PHP, CSS, and XHTML syntax, structure.]()
+    2. [Create Web forms and pages that properly use HTTP GET and POST protocol as appropriate.]()
+    3. [Design SQL language within My SQL and PHP to access and manipulate databases.]()
+    4. [Install and configure both PHP and My SQL.]()
+    5. [Create PHP code that utilizes the commonly used API library functions built in to PHP.]()
+    6. [Design and create a complete web site that demonstrates good PHP/My SQL client/server design.]()
+    7. [To store a cookie using PHP on client side.]()
+    8. [To save the user session on server side.]()
+    9. [Design website.]()
+    
