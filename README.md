@@ -197,9 +197,7 @@ choice - positioning includes rotation and scaling.
     
     ##  Python Programming Lab (Pr-3) <a href="">Click Here</a>
 
-
 1.  [Introduction]()
-    
     - [ Brief History of Python.]()
     - [ Python Versions.]()
     - [ Installing Python.]()
@@ -212,20 +210,6 @@ choice - positioning includes rotation and scaling.
     - [ Dynamic Types.]()
     - [ Python Reserved Words.]()
     - [ Naming Conventions.]()
-
-<!--
- Basic Syntax
- Comments
- String Values
- String Methods
- The format Method
- String Operators
- Numeric Data Types 
- Conversion Functions
- Simple Output 
- Simple Input 
- The % Method 
- The print Function -->
 
 2. [ Basic Python Syntax]()
     - [ Basic Syntax]()
@@ -240,4 +224,3 @@ choice - positioning includes rotation and scaling.
     - [ Simple Input]()
     - [ The % Method]()
     - [ The print Function]()
-    
