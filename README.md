@@ -197,7 +197,7 @@ choice - positioning includes rotation and scaling.
     
     ##  Python Programming Lab (Pr-3) <a href="">Click Here</a>
 
-1.  [Introduction]()
+1. [Introduction]()
     - [ Brief History of Python.]()
     - [ Python Versions.]()
     - [ Installing Python.]()
@@ -224,3 +224,11 @@ choice - positioning includes rotation and scaling.
     - [ Simple Input]()
     - [ The % Method]()
     - [ The print Function]()
+3. [Language Components]()
+    - [Indenting Requirements]()
+    - [The if Statement]()
+    - [Relational and Logical Operators]()
+    - [Bit Wise Operators]()
+    - [The while Loop]()
+    - [break and continue]()
+    - [The for Loop]()
