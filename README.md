@@ -236,3 +236,17 @@ choice - positioning includes rotation and scaling.
     - [The while Loop]()
     - [break and continue]()
     - [The for Loop]()
+4. [Collections]()
+    - [Introduction ]()
+    - [Lists]()
+    - [Tuples]()
+    - [Sets]()
+    - [Dictionaries]()
+    - [Sorting Dictionaries]()
+    - [Copying Collections]()
+    - [Summary]()
+5. [Functions]()
+    
+
+
+
