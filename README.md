@@ -246,6 +246,22 @@ choice - positioning includes rotation and scaling.
     - [Copying Collections]()
     - [Summary]()
 5. [Functions]()
+    - [Introduction]()
+    - [Defining Your Own  Functions]()
+    - [Parameters]()
+    - [Function Documentation]()
+    - [Keyword and Optional Parameters Passing Collections to a Function]()
+    - [Variable Number of Arguments]()
+    - [Scope]()
+    - [Functions - "First Class Citizens"]()
+    - [Passing Functions to a Function]()
+    - [map]()
+    - [filter]()
+    - [Mapping Functions in a Dictionary]()
+    - [Lambda]()
+    - [Inner Functions]()
+    - [Closures]()
+
     
 
 
