@@ -326,5 +326,5 @@ choice - positioning includes rotation and scaling.
 10. - [WAP for simple calculator.]()
 <br>
 
-##  project Lab (Pr-3) <a href="">Click Here</a>
+##  Project Lab (Pr-3) <a href="">Click Here</a>
   
