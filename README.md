@@ -195,8 +195,9 @@ choice - positioning includes rotation and scaling.
     - [Procedure to position the picture preferably on a plain background of a colour of your choice - positioning includes rotation and scaling.]()
     - [Procedure to type a word and apply the effects shadow embosses.]()
     
+break
+<br>
 
-    
     ##  Python Programming Lab (Pr-3) <a href="">Click Here</a>
 
 1. [Introduction]()
