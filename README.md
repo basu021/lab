@@ -194,3 +194,9 @@ choice - positioning includes rotation and scaling.
     - [Procedure to adjust the brightness and contrast of the picture so that it gives an elegant look.]()
     - [Procedure to position the picture preferably on a plain background of a colour of your choice - positioning includes rotation and scaling.]()
     - [Procedure to type a word and apply the effects shadow embosses.]()
+    
+    ##  Python Programming Lab (Pr-3) <a href="">Click Here</a>
+
+1. [Introduction]
+    
+    - [ Brief History of Python.]()
