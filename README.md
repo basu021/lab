@@ -197,7 +197,31 @@ choice - positioning includes rotation and scaling.
     
     ##  Python Programming Lab (Pr-3) <a href="">Click Here</a>
 
+<!-- Python Versions
+ Installing Python
+ Environment Variables
+ Executing Python from the Command Line
+ IDLE
+ Editing Python Files
+ Python Documentation
+ Getting Help
+ Dynamic Types
+ Python Reserved Words
+ Naming Conventions -->
+
 
 1.  [Introduction]()
     
     - [ Brief History of Python.]()
+    - [ Python Versions.]()
+    - [ Installing Python.]()
+    - [ Environment Variables.]()
+    - [ Executing Python from the Command Line.]()
+    - [ IDLE.]()
+    - [ Editing Python Files.]()
+    - [ Python Documentation.]()
+    - [ Getting Help.]()
+    - [ Dynamic Types.]()
+    - [ Python Reserved Words.]()
+    - [ Naming Conventions.]()
+    
