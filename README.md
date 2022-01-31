@@ -195,9 +195,7 @@ choice - positioning includes rotation and scaling.
     - [Procedure to position the picture preferably on a plain background of a colour of your choice - positioning includes rotation and scaling.]()
     - [Procedure to type a word and apply the effects shadow embosses.]()
     
-
 <br>
-
 
 ##  Python Programming Lab (Pr-3) <a href="">Click Here</a>
 
@@ -261,8 +259,68 @@ choice - positioning includes rotation and scaling.
     - [Lambda]()
     - [Inner Functions]()
     - [Closures]()
+6.  [Functions]()
+     - [Modules ]()
+     - [Standard Modules ]()
+     - [The dir Function]()
+7.  [Exceptions]()
+     - [Errors]()
+     - [Runtime Errors]()
+     - [The Exception Model]()
+     - [Exception Hierarchy]()
+     - [Handling Multiple Exceptions]()
+     - [Raise]()
+     - [assert]()
+8.  [Input and Output]()
+     - [Introduction]()
+     - [Data Streams]()
+     - [Creating Your Own Data Streams]()
+     - [Access Modes]()
+     - [Writing Data to a File]()
+     - [Reading Data From a File]()
+     - [Additional File Methods]()
+     - [Using Pipes as Data Streams]()
+     - [Handling IO Exceptions]()
+9.  [Classes in Python]()
+        - [Classes in Python]()
+        - [Principles of Object Orientation]()
+        - [Creating Classes]()
+        - [Instance Methods]()
+        - [File Organization]()
+        - [Special Methods]()
+        - [Class Variables]()
+        - [Inheritance]()
+        - [Polymorphism]()
+10. [Regular Expressions]()
+        - [Introduction]()
+        - [Simple Character Matches]()
+        - [Special Characters]()
+        - [Character Classes]()
+        - [Quantifiers]()
+        - [The Dot Character]()
+        - [Greedy Matches]()
+        - [Grouping]()
+        - [Matching at Beginning or End]()
+        - [Matching Objects]()
+        - [Substituting]()
+        - [Splitting a String]()
+        - [Compiling Regular Expressions]()
+        - [Flags]()
+ <br>
 
-    
-
-
-
+### List Of Practicals
+1. - [Write instructions to perform each of the steps below]()
+   - [Create a string containing at least five words and store it in a variable.]()
+   - [Print out the string.]()
+   - [Convert the string to a list of words using the string split method.]()
+   - [Sort the list into reverse alphabetical order using some of the list methods (you might need to use dir(list) or help(list) to find appropriate methods).]()
+   - [Print out the sorted, reversed list of words.]()
+2. - [Write a program that determines whether the number is prime.]()
+3. - [Find all numbers which are multiple of 17, but not the multiple of 5, between 2000 and 2500.]()
+4. - [Swap two integer numbers using a temporary variable.]()
+5. - [Find the largest of n numbers, using a user defined function largest().]()
+6. - [Write a function my Reverse() which receives a string as an input and returns the reverse of the string.]()
+7. - [Check if a given string is palindrome or not.]()
+8. - [WAP to convert Celsius to Fahrenheit.]()
+9. - [Find the ASCII value of charades.]()
+10. - [WAP for simple calculator.]()
