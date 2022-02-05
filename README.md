@@ -89,7 +89,7 @@ choice - positioning includes rotation and scaling.
 
 # Syllabus
 
-## WEB DEVELOPMENT LAB (Pr-1) <a href="">Click Here</a>
+## WEB DEVELOPMENT LAB (Pr-1) <a href="https://github.com/basu021/lab/tree/main/webdev">Click Here</a>
 
 - [DEVELOPING PORTALS USING HTML]()
     1. [Introduction to HTML]()
