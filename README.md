@@ -91,7 +91,7 @@ choice - positioning includes rotation and scaling.
 
 ## WEB DEVELOPMENT LAB (Pr-1) <a href="https://github.com/basu021/lab/tree/main/webdev">Click Here</a>
 
-- [DEVELOPING PORTALS USING HTML]()
+- [DEVELOPING PORTALS USING HTML](https://github.com/basu021/lab/tree/main/webdev/Devloping_portals_using_HTML)
     1. [Introduction to HTML]()
     1. [Basic Structure of HTML]()
     1. [Designing a web page]()
@@ -154,13 +154,13 @@ choice - positioning includes rotation and scaling.
 8. [To save the user session on server side.]()
 9. [Design website.]() 
 
-## Computer Graphics & Multimedia Lab (Pr-2) <a href="">Click Here</a>
+## Computer Graphics & Multimedia Lab (Pr-2) <a href="https://github.com/basu021/lab/tree/main/cgm">Click Here</a>
 
 1. [Graphics]()
-    - [Program to implement a line using slope intercept formula.]()
-    - [Program to implement line using DDA algorithm.]()
-    - [Program to implement line using Bresenham's algorithm.]()
-    - [Program to implement circle using midpoint circle algorithm.]()
+    - [Program to implement a line using slope intercept formula.](https://github.com/basu021/lab/tree/main/cgm/graphics/exp-1)
+    - [Program to implement line using DDA algorithm.](https://github.com/basu021/lab/tree/main/cgm/graphics/exp-2)
+    - [Program to implement line using Bresenham's algorithm.](https://github.com/basu021/lab/tree/main/cgm/graphics/exp-3)
+    - [Program to implement circle using midpoint circle algorithm.](https://github.com/basu021/lab/tree/main/cgm/graphics/exp-4)
     - [Program to implement translation of a line and triangle.]()
     - [Program to implement rotation of a line and triangle.]()
     - [Program to implement scaling Transformation.]()
