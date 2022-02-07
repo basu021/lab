@@ -157,10 +157,10 @@ choice - positioning includes rotation and scaling.
 ## Computer Graphics & Multimedia Lab (Pr-2) <a href="https://github.com/basu021/lab/tree/main/cgm">Click Here</a>
 
 1. [Graphics]()
-    - [Program to implement a line using slope intercept formula.](https://github.com/basu021/lab/tree/main/cgm/graphics/exp-1)
-    - [Program to implement line using DDA algorithm.](https://github.com/basu021/lab/tree/main/cgm/graphics/exp-2)
-    - [Program to implement line using Bresenham's algorithm.](https://github.com/basu021/lab/tree/main/cgm/graphics/exp-3)
-    - [Program to implement circle using midpoint circle algorithm.](https://github.com/basu021/lab/tree/main/cgm/graphics/exp-4)
+    - [Program to implement a line using slope intercept formula.](https://github.com/basu021/lab/blob/main/cgm/graphics/exp-1/sope_intrcept.py)
+    - [Program to implement line using DDA algorithm.](https://github.com/basu021/lab/blob/main/cgm/graphics/exp-2/DDA_line_drawing_algo.py)
+    - [Program to implement line using Bresenham's algorithm.](https://github.com/basu021/lab/blob/main/cgm/graphics/exp-3/besenham-algo.py)
+    - [Program to implement circle using midpoint circle algorithm.](https://github.com/basu021/lab/blob/main/cgm/graphics/exp-4/mid_point_algo.py)
     - [Program to implement translation of a line and triangle.]()
     - [Program to implement rotation of a line and triangle.]()
     - [Program to implement scaling Transformation.]()
