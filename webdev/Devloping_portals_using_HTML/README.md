@@ -1,32 +1,37 @@
-# Heading
+# Web Development Lab
+## Developing Portals Using HTML
+### Introduction to HTML5 and CSS3
 
-## Introduction to HTML5 and CSS3
-
-<p>What is HTML ? </p>
+#### What is HTML ?
 
 <p>
 Ans: HTML is a markup language that defines the structure of web pages. It is a set of guidelines for creating web pages and web applications.
 </p>
+
+#### [Basic Structure of HTML]()
+
+#### Difference between HTML and HTML5:
+
 <p>
-Difference between HTML and HTML5:
-</p>
-<p>
-HTML tags can be defined in two ways:
-            1) semantic tags
-            2) non-semantic tags
+HTML tags can be defined in two ways: <br>
+            1) semantic tags <br>
+            2) non-semantic tags <br><br>
 HTML5 intrduces semantic tags.
 Semantic elements have meaningful names which tells about type of content. For example header, footer, table, … etc. HTML5 introduces many semantic elements as mentioned below which make the code easier to write and understand for the developer as well as instructs the browser on how to treat them. 
  
 
-article
-aside
-details
-figcaption
-figure
-footer
-header
-main
-mark
-nav
-section
+<ul>
+<li>article</li>
+<li>aside</li>
+<li>details</li>
+<li>figcaption</li>
+<li>figure</li>
+<li>footer</li>
+<li>header</li>
+<li>main</li>
+<li>mark</li>
+<li>nav</li>
+</ul>
 </p>
+
+#### [Designing a webpage and inserting like images] ()
