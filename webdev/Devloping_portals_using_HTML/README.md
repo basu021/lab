@@ -9,6 +9,25 @@ Ans: HTML is a markup language that defines the structure of web pages. It is a 
 </p>
 
 #### [Basic Structure of HTML]()
+```html:
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- tittle of the website -->
+    <title>Welcome To My Website</title>
+</head>
+<!-- Body tag which contains the actual contents -->
+
+<body>
+    <h1>Hello, Basudev !!</h1>
+</body>
+
+</html>
 
 #### Difference between HTML and HTML5:
 
