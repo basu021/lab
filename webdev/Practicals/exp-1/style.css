@@ -1,0 +1,14 @@
+:root {
+    --primary: #ffc107;
+    /* Declaring variables */
+    --secondary: #ff9800;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.col {
+    color: var(--primary);
+}
