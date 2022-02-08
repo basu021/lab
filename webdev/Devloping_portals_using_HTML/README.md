@@ -28,6 +28,7 @@ Ans: HTML is a markup language that defines the structure of web pages. It is a 
 </body>
 
 </html>
+```
 
 #### Difference between HTML and HTML5:
 
