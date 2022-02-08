@@ -9,7 +9,7 @@ Ans: HTML is a markup language that defines the structure of web pages. It is a 
 </p>
 
 #### [Basic Structure of HTML]()
-```html:
+```html
 <!DOCTYPE html>
 <html lang="en">
 
