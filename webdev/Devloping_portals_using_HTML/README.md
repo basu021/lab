@@ -54,7 +54,7 @@ Semantic elements have meaningful names which tells about type of content. For e
 </ul>
 </p>
 
-#### [Designing a webpage and inserting like images] ()
+#### [Designing a webpage and inserting like images]()
 
 The <img> tag is used to embed an image in an HTML page. 
 The src attribute specifies the path to the image to be displayed:
@@ -63,12 +63,12 @@ The <img> tag should also contain the width and height attributes, which specifi
 ```html
 <img src="img.jpg" width="500" height="600">
 ```
-#### [ horizontal rules] ()
+#### [ horizontal rules]()
 The ```<hr>``` tag defines a thematic break in an HTML page (e.g. a shift of topic).
 The ```<hr>``` element is most often displayed as a horizontal rule that is used to separate content (or define a change) in an HTML page.
 
 
-#### [Html Comments] ()
+#### [Html Comments]()
 Comments can be used to hide content.
 Which can be helpful if you hide content temporarily.
 
@@ -76,7 +76,7 @@ Which can be helpful if you hide content temporarily.
 <!-- <p>This is a Comment </p> -->
 ```
 
-#### [HTML Formatting Elements] ()
+#### [HTML Formatting Elements]()
 
 Formatting elements were designed to display special types of text:
 ```<b>``` - Bold text
@@ -90,14 +90,17 @@ Formatting elements were designed to display special types of text:
 ```<sub>``` - Subscript text
 ```<sup>``` - Superscript text
 
-#### [HTML Title] ()
+#### [HTML Title]()
 
 The ```<title>``` tag defines the title of the document. The title must be text-only, and it is shown in the browser's title bar or in the page's tab.
 
-The <title> tag is required in HTML documents!
-<title>This is a title</title>
+The ```<title>``` tag is required in HTML documents!
 
-#### [HTML Headings] ()
+```html
+<title>This is a title</title>
+```
+
+#### [HTML Headings]()
 HTML headings are defined with the ```<h1>``` to ```<h6>``` tags.
 ```<h1>``` defines the most important heading. ```<h6>``` defines the least important heading.
 
@@ -109,7 +112,7 @@ HTML headings are defined with the ```<h1>``` to ```<h6>``` tags.
 <h5>Heading 5</h5>
 <h6>Heading 6</h6>
 ```
-#### [HTML Color] ()
+#### [HTML Color]()
 
 HTML colors are specified with predefined color names, or with RGB, HEX, HSL, RGBA, or HSLA values.
 
@@ -118,7 +121,7 @@ HTML colors are specified with predefined color names, or with RGB, HEX, HSL, RG
 <h1 style="color:Tomato;">Hello World</h1>
 ```
 
-#### [HTML Fonts] ()
+#### [HTML Fonts]()
 Choosing the right font has a huge impact on how the readers experience a website.
 Using a font that is easy to read is important. The font adds value to your text. 
 The following fonts are the best web safe fonts for HTML and CSS:
@@ -134,13 +137,13 @@ Garamond (serif)
 Courier New (monospace)
 Brush Script MT (cursive)
 
-#### [HTML Sizes] ()
+#### [HTML Sizes]()
 
 The sizes attribute specifies the sizes of icons for visual media.
 This attribute is only used if rel="icon".
 <link rel="icon" href="demo_icon.gif" type="image/gif" sizes="16x16">
 
-#### [HTML Table] ()
+#### [HTML Table]()
 HTML tables allow web developers to arrange data into rows and columns.
 Example:
 
@@ -164,7 +167,7 @@ Example:
 </table>
 ```
 
-#### [HTML Form] ()
+#### [HTML Form]()
 An HTML form is used to collect user input. The user input is most often sent to a server for processing.
 The ```<form>``` element is a container for different types of input elements, such as: text fields, checkboxes, radio buttons, submit buttons, etc.
 
@@ -176,7 +179,7 @@ The ```<form>``` element is a container for different types of input elements, s
   <input type="text" id="lname" name="lname">
 </form>
 ```
-#### [HTML Video] ()
+#### [HTML Video]()
 The HTML ```<video>``` element is used to show a video on a web page.
 
 ```html
@@ -186,7 +189,7 @@ The HTML ```<video>``` element is used to show a video on a web page.
 </video>
 ```
 
-#### [HTML Audio] ()
+#### [HTML Audio]()
 The HTML ```<audio>``` element is used to play an audio file on a web page.
 
 ```html
