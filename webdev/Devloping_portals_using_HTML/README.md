@@ -231,9 +231,9 @@ The php. ini file is the default configuration file for running applications tha
 #### [PHP Syntax]()
 
 ```php
-<?php
+<?php //opening tag
 // PHP code goes here
-?>
+?> // Closing tag
 ```
 
 ```html
@@ -250,3 +250,14 @@ echo "Hello World!";
 </body>
 </html>
 ````
+- PHP Variables
+
+```php
+<?php
+$name = 'Basudev Rout';
+$age = '14'
+
+echo $name;
+echo $age;
+?>
+```
