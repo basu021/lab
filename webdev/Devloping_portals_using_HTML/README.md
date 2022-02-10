@@ -1,11 +1,9 @@
 # Web Development Lab
 ## Developing Portals Using HTML
-### Introduction to HTML5 and CSS3
-
-#### What is HTML ?
+#### Introduction to HTML5 and CSS3
 
 <p>
-Ans: HTML is a markup language that defines the structure of web pages. It is a set of guidelines for creating web pages and web applications.
+Ans: HTML is a markup language that defines the structure of web pages. It is a set of guidelines for creating web pages and web applications. css3 is a style sheet language used for describing the presenting og HTML elements.
 </p>
 
 #### [Basic Structure of HTML]()
@@ -179,22 +177,76 @@ The ```<form>``` element is a container for different types of input elements, s
   <input type="text" id="lname" name="lname">
 </form>
 ```
-#### [HTML Video]()
-The HTML ```<video>``` element is used to show a video on a web page.
+#### [Style Sheet]()
 
+Cascading Style Sheets (CSS) provide easy and effective alternatives to specify various attributes for the HTML tags. Using CSS, you can specify a number of style properties for a given HTML element. Each property has a name and a value, separated by a colon (:). Each property declaration is separated by a semi-colon (;).
+
+CSS can be added to HTML documents in 3 ways:
+
+- Inline - by using the style attribute inside HTML elements.
+- Internal - by using a ```<style>``` element in the ```<head>``` section.
+- External - by using a ```<link>``` element to link to an external CSS file.
+
+#### [Frames]()
+
+HTML frames are used to divide your browser window into multiple sections where each section can load a separate HTML document. A collection of frames in the browser window is known as a frameset. The window is divided into frames in a similar way the tables are organized: into rows and columns.
+
+example:
 ```html
-<video width="320" height="240" controls>
-  <source src="movie.mp4" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
-</video>
+<!DOCTYPE html>
+<html>
+
+   <head>
+      <title>HTML Frames</title>
+   </head>
+	
+   <frameset rows = "10%,80%,10%">
+      <frame name = "top" src = "/html/top_frame.htm" />
+      <frame name = "main" src = "/html/main_frame.htm" />
+      <frame name = "bottom" src = "/html/bottom_frame.htm" />
+   
+      <noframes>
+         <body>Your browser does not support frames.</body>
+      </noframes>
+      
+   </frameset>
+   
+</html>
 ```
 
-#### [HTML Audio]()
-The HTML ```<audio>``` element is used to play an audio file on a web page.
+#### [Floating of web pages]() 
+
+The float CSS property places an element on the left or right side of its container, allowing text and inline elements to wrap around it
+
+## PHP
+
+#### PHP Basics
+
+PHP(Hypertext Preprocessor) is a general-purpose scripting language geared towards web development. It is a server side scripting Language that allows you to create dynamic web pages.
+
+#### [php.ini file]()
+
+The php. ini file is the default configuration file for running applications that require PHP. It is used to control variables such as upload sizes, file timeouts, and resource limits.
+
+#### [PHP Syntax]()
+
+```php
+<?php
+// PHP code goes here
+?>
+```
 
 ```html
-<audio controls>
-  <source src="horse.ogg" type="audio/ogg">
-  <source src="horse.mp3" type="audio/mpeg">
-</audio>
-```
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My first PHP page</h1>
+
+<?php
+echo "Hello World!";
+?>
+
+</body>
+</html>
+````
