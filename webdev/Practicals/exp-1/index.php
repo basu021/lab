@@ -12,7 +12,7 @@
 <body>
     <h1>This is a heading</h1>
     <h6>Inserting an img</h6>
-    <img src="./img/bact.jpg" />
+    <img src="img/bact.jpg" />
     
     <br>
 
