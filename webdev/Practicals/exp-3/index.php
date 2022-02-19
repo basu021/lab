@@ -7,6 +7,14 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <h1>Database connection</h1>
+    <?php
+    require_once('./config.php'); 
+        if(!$conn){
+            echo 'Connection error: ' . mysqli_connect_error();
+        } else {
+            echo 'Connected successfully';
+        }
+    ?>
 </body>
 </html>
