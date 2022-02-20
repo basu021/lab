@@ -1,6 +1,6 @@
 ## Experiment 1
 
-```python
+```
 
 c is better than python
 ['c', 'is', 'better', 'than', 'python']
@@ -11,7 +11,7 @@ c is better than python
 ## Experiment 2
 
 ##### case 1
-```python
+```
 
 input: 8
 The number is not prime.
@@ -19,7 +19,7 @@ The number is not prime.
 ```
 
 ##### case 2
-```python
+```
 
 input: 97
 The number is prime.
@@ -28,7 +28,7 @@ The number is prime.
 
 ## Experiment 3
 
-```python
+```
 
 2006
 2023
@@ -59,7 +59,7 @@ The number is prime.
 
 ## Experiment 4
 
-```pyhton
+```
 
 1st num: 4
 2nd num: 9
@@ -71,7 +71,7 @@ b = 4
 
 ## Experiment 5
 
-```python
+```
 
 10
 
@@ -79,10 +79,60 @@ b = 4
 
 ## Experiment 6
 
-```python
+```
 
 Input string: c is faster than python
 nohtyp naht retsaf si c
 
 ```
 
+## Experiment 7
+
+##### case 1
+```
+
+Number: 45
+Not Palindrome
+
+```
+##### case 2
+```
+
+Number: 676
+Palindrome
+
+```
+
+## Experiment 8
+
+```
+
+Enter Celsius: 100
+Fahrenheit:  212.0
+
+```
+
+## Experiment 9
+
+```
+
+Enter a char: a
+ASCII value:  97
+
+```
+
+## Experiment 10
+
+```
+1st num: 10
+2nd num: 20
+Choose ur option
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+5. Exit
+=> 3
+200
+
+```
