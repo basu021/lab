@@ -1,5 +1,4 @@
 #!/bin/sh
-u=1
 if [ $# -eq 0 ]
 then
     echo "no arguments given"
@@ -8,9 +7,6 @@ fi
 echo "Total number of arguments: $#"
 echo "The arguments are: $*"
 echo "The arguments in reverse order:"
-rev=" "
-for i in $*
-do
-  rev=$i" "$rev
+for (( i=$#;i>0;i-- ));do
+        echo "${!i}"
 done
-echo $rev
