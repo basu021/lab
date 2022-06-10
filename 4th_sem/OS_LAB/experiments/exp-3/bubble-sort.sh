@@ -25,7 +25,7 @@ do
 done
 
 # To iterate over the array using for loop
-echo -n "The sorted array is: "
+printf "\nThe sorted array is: "
 for elem in ${arr[@]}
 do
     printf $elem" "
