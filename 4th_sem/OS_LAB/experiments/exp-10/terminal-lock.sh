@@ -9,13 +9,13 @@ read -s password
 
 echo "Terminal locked :- Enter password to unlock..."
 
-input=$(read -s)
+read input
 
-while [ $input != $password ]
+while [ $input -ne $password ]
 do
     echo "Incorrect password"
     echo "Enter password again: "
-    read -s input
+    read input
 done
 
 echo "Terminal unlocked"
