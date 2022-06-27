@@ -24,7 +24,7 @@ do
         fi
     done
 done
-
+printf "\n"
 for nums in ${elements[@]}
 do
 echo $nums" "
