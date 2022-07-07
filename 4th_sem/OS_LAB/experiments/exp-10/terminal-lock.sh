@@ -11,7 +11,7 @@ echo "Terminal locked :- Enter password to unlock..."
 
 read input
 
-while [ $input -ne $password ]
+while [[ $input -ne $password ]]
 do
     echo "Incorrect password"
     echo "Enter password again: "
